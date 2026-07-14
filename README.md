@@ -1,12 +1,12 @@
 # Annie — Application Assistant
 
-A Claude Code plugin that takes the grind out of job applications without taking your hands off the wheel. Two skills, two hard approval gates, zero improvised claims.
+Job applications are the one of the first writing sample every company sees. Annie makes yours sharper: a Claude Code plugin that surfaces the strongest details of your experience and keeps you the final approver of every word. 
 
 ![Annie architecture](docs/annie-architecture.png)
 
 ## Why Annie exists
 
-Job searching has a repetitive core: every application wants a tailored cover letter and thoughtful answers to "why us?" questions. Doing that well takes 45 minutes per application. Doing it generically takes 5 and gets you rejected. Annie splits the difference: the research, drafting, and document mechanics are automated, while every sentence that represents you still requires your explicit approval.
+Job applications matter. What you put in them is often the only writing sample a company sees before deciding to move you forward. That is why I built Annie: a Claude Code plugin that helps you surface the most compelling details of your experience while keeping you the final approver of every word. You validate your skills, tone of voice, impact, metrics, etc.
 
 Annie is the sibling of [Gibbons](https://github.com/brandi-berg/gibbons), my agentic recruiting system. Gibbons works one side of the hiring desk; Annie works the other.
 
