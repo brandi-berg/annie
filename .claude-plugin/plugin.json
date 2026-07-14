@@ -1,0 +1,8 @@
+{
+  "name": "annie",
+  "description": "Annie: Brandi Bergstrom's job application assistant. Two skills: /cover-letter fills her cover letter template for a specific role, and /application answers job application questions in her voice using only verifiable material.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brandi Bergstrom"
+  }
+}

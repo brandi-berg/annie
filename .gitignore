@@ -1,0 +1,12 @@
+# ── Personal context: never committed ──────────────────
+# These are YOUR files, created from the .example templates.
+# Annie reads them locally; the repo never sees them.
+context/section-b-voice.md
+context/resume-talent-leadership.md
+context/resume-recruiting-ops.md
+context/writing-examples.md
+context/linkedin-profile.pdf
+
+# macOS noise
+.DS_Store
+**/.DS_Store

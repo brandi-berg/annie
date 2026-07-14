@@ -1,0 +1,11 @@
+{
+  "name": "annie-marketplace",
+  "owner": { "name": "Brandi Bergstrom" },
+  "plugins": [
+    {
+      "name": "annie",
+      "source": "./",
+      "description": "Cover letter and application question assistant"
+    }
+  ]
+}
