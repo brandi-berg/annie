@@ -8,7 +8,7 @@ Job applications are the one of the first writing samples every company sees. An
 
 Job applications matter. What you put in them is often the only writing sample a company sees before deciding to move you forward. That is why I built Annie: a Claude Code plugin that helps you surface the most compelling details of your experience while keeping you the final approver of every word. You validate your skills, tone of voice, impact, metrics, etc.
 
-Annie is the sibling of [Gibbons](https://github.com/brandi-berg/gibbons), my agentic recruiting system. Gibbons works one side of the hiring desk; Annie works the other.
+Annie is the sibling of [Gibbons](https://github.com/brandi-berg/gibbons), my agentic recruiting system. Gibbons works one side of the hiring desk (talent); Annie works the other (applicants).
 
 ## What it does
 
