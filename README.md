@@ -1,6 +1,6 @@
 # Annie — Application Assistant
 
-Job applications are the one of the first writing sample every company sees. Annie makes yours sharper: a Claude Code plugin that surfaces the strongest details of your experience and keeps you the final approver of every word. 
+Job applications are the one of the first writing samples every company sees. Annie makes yours sharper: a Claude Code plugin that surfaces the strongest details of your experience and keeps you the final approver of every word. 
 
 ![Annie architecture](docs/annie-architecture.png)
 
